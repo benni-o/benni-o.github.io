@@ -83,15 +83,15 @@ body{
 
 #button5 
     {position: absolute;
-    bottom: 80px;
+    top: 580px;
     left: 85px}
 
 #button6 
     {position: absolute;
-    bottom: 25px;
+    top: 600px;
     right: 100px;}
 
 #button7 
     {position: absolute;
-    bottom: 75px;
+    top: 525px;
     right: 350px}
