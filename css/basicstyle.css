@@ -9,10 +9,12 @@ h1{ color: #3e2014;
     border-style: dashed;
     border-width: 5px;
     padding: 10px;
+   text-align: center;
 }
 
 h2{ color: #3e2014;
-    font-family : "Roboto Serif", "Serif"; 
+   font-family : "Roboto Serif", "Serif"; 
+   text-align: center;
 }
 
 h3{ color: #3e2014;
